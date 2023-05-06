@@ -1,1 +1,1 @@
-![Screensort](quote.png)
+![Screensort](./public/quote.png)
